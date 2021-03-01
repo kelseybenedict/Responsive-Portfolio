@@ -14,6 +14,6 @@ body{
     width: 100%;
     text-align: center;
 }
-#email{
+#contactFooter, #email, #cell{
     color: white;
-}
+  }
